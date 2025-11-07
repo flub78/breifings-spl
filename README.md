@@ -13,24 +13,21 @@ Il est prévu de compléter le matériel officiel sur certains sujets. Le site c
 
 ## Briefings SPL
 
-* BRIEFING: DESCENTE D'URGENCE (Suzanne)
-  * Utilisation des AF
-  * Vitesses à utiliser.
-  * Pièges à éviter
-  
-* BRIEFING: VOL A VOILE
-* BRIEFING: SÉCURITÉ DES VOLS (Thibault)
-* BRIEFING: Dossier de vol
+* [BRIEFING: DESCENTE D'URGENCE](./doc/briefings/SPL/descente_d'urgence.md)
+* [BRIEFING: VOL A VOILE](./doc/briefings/SPL/vol_a_voile.md)
+* [BRIEFING: SÉCURITÉ DES VOLS](./doc/briefings/SPL/sécurité_des_vols.md)
+* [BRIEFING: Dossier de vol](./doc/briefings/SPL/dossier_de_vol.md)
+* [BRIEFING: Navigation](./doc/briefings/SPL/briefingnavigation.md)
+* [BRIEFING: Vol à voile](./doc/briefings/SPL/vol_à_voile.md)
+* [BRIEFING: Choix du champ](./doc/briefings/SPL/choix_du_champ.md)
+* [BRIEFING: Radiotéléphonie](./doc/briefings/SPL/radiotéléphonie.md)
 
 
 ## Briefings  Campagne plus
 
-* Préparation du circuit (Suzanne)
-  * Tracé
-  * Zones EA
-  * NOTAMS
-  * plan de vol
-  * Réglementation
-  * Etude du projet de vol
-
-* 
+* [BRIEFING: Préparation du circuit](./doc/briefings/Campagne/préparation_du_circuit.md)
+* [BRIEFING: Organisation de la montée](./doc/briefings/Campagne/organisation_de_la_montée.md)
+* [BRIEFING: Organisation de la transition](./doc/briefings/Campagne/organisation_de_la_transition.md)
+* [BRIEFING: Gestion des locaux](./doc/briefings/Campagne/gestion_des_locaux.md)
+* [BRIEFING: Précision d'atterrissage](./doc/briefings/Campagne/précision_d'atterrissage.md)
+* [BRIEFING: Règlement des compétitions](./doc/briefings/Campagne/règlement_des_compétitions.md) 
