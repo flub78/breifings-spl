@@ -39,10 +39,10 @@ Avant d'entreprendre un vol en campagne, nous devons prendre en compte plusieurs
 
 Pour connaître la météo du lendemain ou du jour, plusieurs sites utiles :
 
-- https://meteo-parapente.com/#/
-- https://meteofrance.com/images-radar
-- https://www.meteocumulus.com/fr/
-- https://skysight.io/
+- [Météo Parapente](https://meteo-parapente.com/#/)
+- [Météo France Radar](https://meteofrance.com/images-radar)
+- [Météo Cumulus](https://www.meteocumulus.com/fr/)
+- [Skysight](https://skysight.io/)
 
 Sur ces sites, on prend connaissance des secteurs de vol favorables, du vent, du plafond, du début et de la fin des convections, etc.
 
@@ -148,3 +148,5 @@ L'étude du projet de vol consiste à analyser tous les points précédemment ex
 > Renoncer n'est pas une défaite : « il faut distinguer la ténacité de l'obstination : savoir insister et persévérer au bon moment, savoir aussi se retirer et renoncer quand il le faut »
 
 Après le vol, l'analyse est très importante. Les traces sont enregistrées avec le FLARM dans chaque planeur. Regarder ses erreurs et ses points forts fait partie du vol.
+
+[Retour au sommaire](../../README.md)

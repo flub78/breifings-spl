@@ -84,4 +84,6 @@ Quelques schémas pour illustrer.
 
   
 
-* Remerciez votre auditoire      
+* Remerciez votre auditoire
+
+[Retour au sommaire](../README.md)      
