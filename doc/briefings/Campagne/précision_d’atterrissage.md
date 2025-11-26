@@ -39,7 +39,7 @@ Ce sont les points que vos élèves doivent absolument avoir retenus à l'issue 
 
 ### Reconnaissance du champs
 
-[Lien vers le support](https://formations.ffvp.fr/Files/Applications/98304/Packages/12a95bf3-6907-45ce-ad26-2ad9b7c70245_V1/scormcontent/index.html#/lessons/DPRNh71N26NOuZKnRJ4ULxlmes84cCu1)
+[E-Learning L'atterrissage en campagne](https://formations.ffvp.fr/Files/Applications/98304/Packages/12a95bf3-6907-45ce-ad26-2ad9b7c70245_V1/scormcontent/index.html#/lessons/DPRNh71N26NOuZKnRJ4ULxlmes84cCu1)
 
 ### Choix du champs
 

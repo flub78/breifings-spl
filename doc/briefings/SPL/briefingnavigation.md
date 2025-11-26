@@ -35,7 +35,7 @@ Ce sont les points que vos élèves doivent absolument avoir retenus à l'issue 
 
 ### Choix des cartes.
 
-[Lien vers le support](https://formations.ffvp.fr/Files/Applications/98304/Packages/268276c4-8a73-4ecf-83bc-7614d6c50130_V1/scormcontent/index.html#/lessons/6vCqnl_2QUm5mz64-tHRab5tc_B1DrAB)
+[E-Learning Carte IGN OACI VFR 1/500.000](https://formations.ffvp.fr/Files/Applications/98304/Packages/268276c4-8a73-4ecf-83bc-7614d6c50130_V1/scormcontent/index.html#/lessons/6vCqnl_2QUm5mz64-tHRab5tc_B1DrAB)
 
 ### Tracé du circuit.
 
