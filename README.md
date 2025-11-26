@@ -25,7 +25,7 @@ Il est prévu de compléter le matériel officiel sur certains sujets. Le site c
 
 ## Briefings  Campagne plus
 
-* [BRIEFING: Préparation du circuit](./doc/briefings/Campagne/préparation_du_circuit.md)
+* [BRIEFING: Préparation du circuit](./doc/briefings/Campagne/préparation_circuits.md)
 * [BRIEFING: Organisation de la montée](./doc/briefings/Campagne/organisation_de_la_montée.md)
 * [BRIEFING: Organisation de la transition](./doc/briefings/Campagne/organisation_de_la_transition.md)
 * [BRIEFING: Gestion des locaux](./doc/briefings/Campagne/gestion_des_locaux.md)
