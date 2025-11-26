@@ -63,4 +63,6 @@ Ce sont les points que vos élèves doivent absolument avoir retenus à l'issue 
 * Rappel des points clés
 * Suggestion d'étude supplémentaire
 * Prochaines séances
-* Remerciez votre auditoire      
+* Remerciez votre auditoire
+
+[Retour au sommaire](../../../README.md)

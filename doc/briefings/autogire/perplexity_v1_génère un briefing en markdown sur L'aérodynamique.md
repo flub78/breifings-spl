@@ -111,3 +111,5 @@ Ce briefing couvre les fondamentaux aérodynamiques de l’autogire, sa stabilit
 
 [^1_20]: https://www.scribd.com/document/672487569/Voilure-tournante
 
+
+[Retour au sommaire](../../../README.md)

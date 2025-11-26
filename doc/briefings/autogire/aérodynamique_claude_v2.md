@@ -195,3 +195,4 @@ Les autogires trouvent leur place dans des créneaux spécifiques où leurs cara
 ## Conclusion
 
 L'autogire représente une solution aérodynamique ingénieuse qui exploite le principe de l'autorotation pour créer un aéronef sûr, économique et relativement simple. Bien qu'il ne puisse rivaliser avec l'hélicoptère en termes de polyvalence ou avec l'avion en termes de vitesse et d'efficacité à haute altitude, il occupe une niche unique dans l'aviation moderne. Ses avantages en matière de sécurité, de coûts d'exploitation et de capacités ADAC (Atterrissage et Décollage Courts) en font un choix pertinent pour de nombreuses applications spécialisées. La compréhension approfondie de ses principes aérodynamiques permet d'apprécier l'élégance de sa conception et les raisons de sa résilience dans le paysage aéronautique contemporain.
+[Retour au sommaire](../../../README.md)
