@@ -66,4 +66,3 @@ Ce sont les points que vos élèves doivent absolument avoir retenus à l'issue 
 * Remerciez votre auditoire
 
 [Retour au sommaire](../../../README.md)
-[Retour au sommaire](../../../README.md)

@@ -1,62 +1,40 @@
-# BRIEFING: DESCENTE D'URGENCE
+# **La descente d'urgence**
 
-Un briefing doit obligatoirement comprendre les éléments suivants:
-
-
-
-
-
-## Titre
-
-
-
-Un titre court et précis pour identifier la leçon.
-
-
-
-## Objectifs
-
-
-
-Pourquoi faites vous ce briefing ? Quelles compétences est-ce que vos élèves doivent avoir acquises à l'issue de l'exposé.
-
-
+## Objectif
+Faire une descente d'urgence en toute sécurité
 
 ## Points clés
+* Descente contrôlée
+* Vitesse compatible au planeur
+* Utilisation des AF jusqu'à la VNE
 
+## Plan et contenu
 
+- [**La descente d'urgence**](#la-descente-durgence)
+  - [Objectif](#objectif)
+  - [Points clés](#points-clés)
+  - [Plan et contenu](#plan-et-contenu)
+  - [Pourquoi faire une descente d'urgence ?](#pourquoi-faire-une-descente-durgence-)
+  - [Comment réaliser une descente d'urgence](#comment-réaliser-une-descente-durgence)
+  - [Pièges à éviter](#pièges-à-éviter)
 
-Ce sont les points que vos élèves doivent absolument avoir retenus à l'issue de briefing. Il est illusoire d'espérer qu'ils retiennent tout. Leur performance sur ces points à l'issue de l'exposé reflète directement l'efficacité de la séance.
+## Pourquoi faire une descente d'urgence ?
+* Aspiration dans un nuage
+* Tombée de la nuit
+* Aggravation de la météo
+* Limitations d'altitude
+* En onde
+* État physique ou physiologique de l'équipage
 
+**Référence :** [Formation descente d'urgence FFVP](https://formations.ffvp.fr/Files/Applications/98304/Packages/ee1ccaf1-75d9-4608-aee0-df1ac5469c1f_V1/scormcontent/index.html#/lessons/0mUTvUVLlAriPp8EvoOs5MUr0ix7tNNl)
 
+## Comment réaliser une descente d'urgence
+* Utilisation des aérofreins
+* Gestion du taux de chute
+* Gestion de la trajectoire
+* Gestion des limitations
 
-
-## Plan
-
-[Accès à l'E-Learning FFVP](https://formations.ffvp.fr/Player/Courses/Index?CourseRunId=9279808166&openingMode=1&TargetNaviId=SyfadisSuite%238994979875&referrer=https%3A%2F%2Fformations.ffvp.fr%2FCatalog%2FLearner%2FHome.aspx%3FidTraining%3D7522549813%26idTrainee%3D8873574435%26idTrainingSession%3D8841232430)
-
-### Utilisation des AF
-
-*(Contenu à développer)*
-
-### Vitesses à utiliser.
-
-*(Contenu à développer)*
-
-### Pièges à éviter
-
-*(Contenu à développer)*
-
-
-### Questions
-
-*(Questions et réponses)*
-
-### Conclusion
-
-* Rappel des points clés
-* Suggestion d'étude supplémentaire
-* Prochaines séances
-* Remerciez votre auditoire
+## Pièges à éviter
 
 [Retour au sommaire](../../../README.md)
+
