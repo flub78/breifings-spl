@@ -18,7 +18,7 @@
 
 ## Objectif
 
-Ce document vise à expliquer les principes aérodynamiques fondamentaux qui régissent le fonctionnement de l'autogire, de façon à permettre à un élève pilote de comprendre se qui se passe lors de phases caractéristiques du vol.
+Ce document vise à expliquer les principes aérodynamiques fondamentaux qui régissent le fonctionnement de l'autogire, de façon à permettre à un élève pilote de comprendre ce qui se passe lors de phases caractéristiques du vol.
 
 On étudiera en particulier :
 
@@ -73,7 +73,7 @@ C'est un cas relativement simple puisque le vent relatif sur l'autogire est vert
 
 Sur un point sur une pale, le vent relatif est la somme vectorielle de la vitesse de rotation de la pale et de la vitesse verticale de l'autogire.
 
-Au moyeu de la pale, la vitesse de rotation est nulle, le vent relatif est vertical, l'incidence est très élevée, la pale est en décrochage.
+Au moyeu du rotor, la vitesse de rotation est nulle, le vent relatif est vertical, l'incidence est très élevée, la pale est en décrochage.
 
 ![Pale dans la zone de décrochage](./images/AutogireRegionDecrochage.png)
 
@@ -134,19 +134,19 @@ Les conséquences sur la phase de décollage:
 
 Il va falloir atteindre une vitesse suffisante pour que le rotor génère assez de portance pour décoller. Cela se fait en deux phases:
 
-* **Une phase de prélancement** où le rotor est mis en rotation par le moteur à l'aide d'un mécanisme d'embrayage. Le rotor atteint une vitesse de rotation suffisante pour commencer à générer de la portance. La vitesse de pré-lancement dépend du modèle d'autogire elle est de 200 tours/min pour un MTO. 
+* **Une phase de prélancement** où le rotor est mis en rotation par le moteur à l'aide d'un mécanisme d'embrayage. Le rotor atteint une vitesse de rotation suffisante pour commencer à générer de la portance. La vitesse de pré-lancement dépend du modèle d'autogire ; elle est de 200 tours/min pour un MTO. 
 
 * **Une phase de course au sol** où l'autogire accélère sur la piste. La vitesse de translation augmente, l'autorotation va accélérer le rotor. Lorsque la portance générée par le rotor équilibre le poids de l'autogire, celui-ci décolle.
 
 Il est primordial de maintenir le manche arrière pendant cette phase. Si l'on essaye de décoller manche avant ou simplement au neutre, l'angle d'attaque du rotor est insuffisant pour générer la portance et on va arriver aux limites des capacités de compenser la dissymétrie de portance avec la tête de rotor articulée. Le rotor va se mettre à vibrer violemment et on risque de perdre le contrôle de l'appareil.
 
-Une fois la roulette avant décollée du sol on va la maintenir à quelques centimètres du sol jusqu'au décollage afin d'éviter de décoller aux grans angles d'incidence. Une fois décollé on maintiendra la machine en palier jusqu'à ce que la vitesse de montée soit atteinte, moment auquel on pourra afficher l'assiette de montée en toute sécurité.
+Une fois la roulette avant décollée du sol, on va la maintenir à quelques centimètres du sol jusqu'au décollage afin d'éviter de décoller aux grands angles d'incidence. Une fois décollé, on maintiendra la machine en palier jusqu'à ce que la vitesse de montée soit atteinte, moment auquel on pourra afficher l'assiette de montée en toute sécurité.
 
 ## Les conséquences pratiques
 
 1. L'autogire ne décroche pas en vol normal. Le rotor est toujours en autorotation.
 
-2. En cas de panne moteur, l'autogire peut descendre en autorotation verticale et atterrir en toute sécurité. Le taux de descente en autorotation est comparable à celui d'un parachute. Trop important pour prendre contact avec le sol à cette vitesse verticale. Au environs de 500 ft sol il faudra ré-accélérer l'autogire autour de 110/120 km/h pour intercepter le plan de d'approche et effectuer un atterrissage contrôlé. Le toucher sol se fera à une vitesse verticale très faible grâce à la portance générée par le rotor.
+2. En cas de panne moteur, l'autogire peut descendre en autorotation verticale et atterrir en sécurité. Le taux de descente en autorotation est comparable à celui d'un parachute. Trop important pour prendre contact avec le sol à cette vitesse verticale. Aux environs de 500 ft sol, il faudra ré-accélérer l'autogire autour de 110/120 km/h pour intercepter le plan d'approche et effectuer un atterrissage contrôlé. Le toucher sol se fera à une vitesse verticale très faible grâce à la portance générée par le rotor.
 
 ## Références
 
