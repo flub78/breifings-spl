@@ -1,5 +1,21 @@
 # L'aérodynamique de l'autogire
 
+## Sommaire
+
+- [L'aérodynamique de l'autogire](#laérodynamique-de-lautogire)
+  - [Sommaire](#sommaire)
+  - [Objectif](#objectif)
+  - [Principe de base de mécanique du vol](#principe-de-base-de-mécanique-du-vol)
+  - [Principes de base de l'aérodynamique](#principes-de-base-de-laérodynamique)
+  - [Aérodynamique spécifique à l'autogire](#aérodynamique-spécifique-à-lautogire)
+  - [Les phases de vol](#les-phases-de-vol)
+    - [Autorotation verticale](#autorotation-verticale)
+    - [Vol en palier stabilisé](#vol-en-palier-stabilisé)
+    - [Les pales du rotor](#les-pales-du-rotor)
+    - [Phase de décollage](#phase-de-décollage)
+  - [Les conséquences pratiques](#les-conséquences-pratiques)
+  - [Références](#références)
+
 ## Objectif
 
 Ce document vise à expliquer les principes aérodynamiques fondamentaux qui régissent le fonctionnement de l'autogire, de façon à permettre à un élève pilote de comprendre se qui se passe lors de phases caractéristiques du vol.
