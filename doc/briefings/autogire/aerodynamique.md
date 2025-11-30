@@ -22,14 +22,13 @@ Ce document vise à expliquer les principes aérodynamiques fondamentaux qui ré
 
 On étudiera en particulier :
 
-* Le vol en palier stabilisé
 * L'autorotation verticale
+* Le vol en palier stabilisé
 * La phase de décollage
 
 ## Principe de base de mécanique du vol
 
 Un mobile qui suit une trajectoire rectiligne est soumis à un ensemble de forces qui s'équilibrent. Si la somme des forces n'est pas nulle, la trajectoire s'incurve ou le mobile accélère ou décélère.
-
 
 
 ## Principes de base de l'aérodynamique
