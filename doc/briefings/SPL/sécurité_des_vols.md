@@ -1,26 +1,9 @@
 # BRIEFING: SÉCURITÉ DES VOLS
 
-Un briefing doit obligatoirement comprendre les éléments suivants:
-
-
-
-
-
-## Titre
-
-
-
-Un titre court et précis pour identifier la leçon.
-
-
 
 ## Objectifs
 
-
-
 Pourquoi faites vous ce briefing ? Quelles compétences est-ce que vos élèves doivent avoir acquises à l'issue de l'exposé.
-
-
 
 ## Points clés
 
@@ -35,7 +18,7 @@ Ce sont les points que vos élèves doivent absolument avoir retenus à l'issue 
 
 ### Initiation culture de sécurité.
 
-[Lien vers le support](https://formations.ffvp.fr/Files/Applications/98304/Packages/03f870b7-0270-460a-9399-f8c91aebdea2_V1/scormcontent/index.html#/lessons/jWHlrwZOKyX2OcNd08QZq0tpvzdfZLTZ)
+[La culture de la sécurité](https://formations.ffvp.fr/Files/Applications/98304/Packages/03f870b7-0270-460a-9399-f8c91aebdea2_V1/scormcontent/index.html#/lessons/jWHlrwZOKyX2OcNd08QZq0tpvzdfZLTZ)
 
 ### La culture juste.
 
