@@ -31,3 +31,7 @@ Il est prévu de compléter le matériel officiel sur certains sujets. Le site c
 * [BRIEFING: Gestion des locaux](./doc/briefings/Campagne/gestion_des_locaux.md)
 * [BRIEFING: Précision d'atterrissage](./doc/briefings/Campagne/précision_d'atterrissage.md)
 * [BRIEFING: Règlement des compétitions](./doc/briefings/Campagne/règlement_des_compétitions.md) 
+
+## Briefings  Autogire
+
+* [BRIEFING: l'aérodynamique de l'autogire](./doc/briefings/autogire/aerodynamique.md) 
